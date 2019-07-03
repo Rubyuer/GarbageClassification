@@ -1,0 +1,2 @@
+# GarbageClassification
+Garbage classification query
